@@ -21,6 +21,7 @@ NewsShorts Uploader는 유튜브 채널 **아빠 너구리TV** 운영자 본인�
 ## Links
 
 - [Privacy Policy / 개인정보처리방침](privacy.html)
+- [Terms of Service / 서비스 약관](terms.html)
 - [YouTube Terms of Service](https://www.youtube.com/t/terms)
 - [Google Privacy Policy](https://policies.google.com/privacy)
 
